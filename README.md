@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install https://github.com/QUNIX-X/vue-simon-the-game.git
 ```
 
 ### Compiles and hot-reloads for development
